@@ -2,3 +2,6 @@ name = "RSVFiles"
 uuid = "d5fd3bbd-5a2f-41cd-a904-8be812f9c4cb"
 authors = ["hv10 <noeldanz@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
